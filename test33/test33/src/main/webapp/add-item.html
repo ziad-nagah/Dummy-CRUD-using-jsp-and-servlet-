@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Add Item</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="form-page">
+  <h1><span class="gradient">Add Item</span></h1>
+ 
+  <form action="/test33/ItemController">
+    <input  type="text" placeholder="Name" required name="itemName">
+    <input  type="number" placeholder="PRICE" required name="itemPrice">
+    <input  type="number" placeholder="TOTAL_NUMBER" required name="itemTotalNumber">
+    <input type="hidden" required name="action" value="add-item"> 
+    <button type="submit" class="btn-form">Add</button>
+    <button class="btn-form">Back to Books</button>
+  </form>
+
+</body>
+</html>
