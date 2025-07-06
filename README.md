@@ -21,6 +21,7 @@ but in reverse way if you loged in before, you will be redirected to main page .
 the ERD of the models :
 
 ![ERD](ERD.png)
+
 Frontend DEV. :
 
 My name is Ibrahim Mohammed This is my first project in web development. I worked as a front-end developer with an amazing back-end developer who helped me a lot, as I was still learning.
